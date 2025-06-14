@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//ppomidor
+//pomidor
 void i() {
 	cout << "i" << endl;
 }
